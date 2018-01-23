@@ -1,0 +1,2 @@
+# Huajicoin
+blockchain
